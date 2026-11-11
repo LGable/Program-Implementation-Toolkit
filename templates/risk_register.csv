@@ -1,0 +1,5 @@
+risk_id,risk,likelihood_1_5,impact_1_5,mitigation,risk_owner_role,status
+R-01,Approval delay,3,3,Stage-gated work; do not procure before authorization,Sponsor,Open
+R-02,Inadequate training transfer,3,4,Return demonstration and follow-up checks,Training owner,Open
+R-03,Missing or inaccurate project data,3,3,"Standard definitions, QA and controlled source files",Data lead,Open
+R-04,Confidentiality breach,2,5,"Use approved systems, restricted access, synthetic public examples",Privacy lead,Open
