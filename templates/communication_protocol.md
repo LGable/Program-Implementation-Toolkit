@@ -8,4 +8,4 @@
 6. Escalate blockers to the authorized supervisor; do not assume the communications platform is the system of record.
 7. At closeout document implementation status, owner, date and outstanding risks.
 
-**Measurement note:** An owner-reported 72% improvement in post-consult implementation at Merakey remains preliminary until the denominator, period and whether the change is relative or percentage points are known.
+**Measurement note:** I reported a preliminary 72% improvement in post-consult implementation at Merakey. The denominator, period, and whether the change is relative or percentage points are not specified in this portfolio.
